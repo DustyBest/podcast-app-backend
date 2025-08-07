@@ -31,6 +31,7 @@ type Episode = {
   description: string | undefined;
   source: string | undefined;
   image: string | undefined;
+  pubDate: string | undefined;
 };
 
 export async function getEpisodes() {
@@ -61,6 +62,7 @@ export async function getEpisodes() {
             description: latest.contentSnippet,
             source: feed.title,
             image: showImage,
+            pubDate: latest.pubDate,
           }
         };
       } catch (err) {
