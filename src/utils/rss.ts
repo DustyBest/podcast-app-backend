@@ -20,7 +20,7 @@ const feeds = [
       const feed = await parser.parseURL(url);
       console.log(`Fetched: ${url}`);
     } catch (err) {
-      console.error(`Errors fetching ${url}:`, (err as Error).message);
+      console.error(`Error fetching ${url}:`, (err as Error).message);
     }
   }
 })();
