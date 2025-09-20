@@ -10,7 +10,6 @@ const feeds = [
     'https://video-api.wsj.com/podcast/rss/wsj/tech-news-briefing',
     'https://feeds.megaphone.fm/ESP4070128464',
     'https://feeds.megaphone.fm/CBS8358037229',
-    'https://www.spreaker.com/show/1401466/episodes/feed',
     'http://www3.nhk.or.jp/rj/podcast/rss/english.xml'
 ];
 
