@@ -1,9 +1,10 @@
+https://audioboom.com/channels/5023446.rss
 https://video-api.wsj.com/podcast/rss/wsj/whats-news
 https://video-api.wsj.com/podcast/rss/wsj/tech-news-briefing
-https://feeds.megaphone.fm/ign-game-entertainment-news
-http://www3.nhk.or.jp/rj/podcast/rss/english.xml
-https://feeds.megaphone.fm/CBS8358037229
+https://feeds.npr.org/500005/podcast.xml
 https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=JqAy8fGqi8lpxLsr3WaGxyG31AZ5URMr
+https://feeds.megaphone.fm/ign-game-entertainment-news
+https://feeds.megaphone.fm/CBS8358037229
 https://anchor.fm/s/49b26094/podcast/rss
 https://feeds.megaphone.fm/ESP4070128464
-
+http://www3.nhk.or.jp/rj/podcast/rss/english.xml
