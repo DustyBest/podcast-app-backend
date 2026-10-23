@@ -21,7 +21,7 @@ app.get('/api/episodes', async (_req, res) => {
 // Add the ElevenLabs TTS proxy route
 app.get('/api/tts', async (req, res) => {
   const text = req.query.text as string | undefined;
-  const voiceId = (req.query.voice as string) || '3WqHLnw80rOZqJzW9YRB';
+  const voiceId = (req.query.voice as string) || 'XrExE9yKIg1WjnnlVkGX';
 
   if (!text) {
     res.status(400).json({ error: 'Text query parameter is required' });
